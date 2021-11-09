@@ -4,15 +4,16 @@ Welcome!
 
 This data repository contains assets to the 2020 Differential Privacy Temporal Map Challenge hosted by the Public Safety Communication (PSCR) Division of the National Institute of Standards of Technology (NIST).
 
-Please navigate to this link for information relating to the 2018 Synthetic Data Challenge.
+[Please navigate to this link for information relating to the 2018 Synthetic Data Challenge.](https://github.com/usnistgov/Differential-Privacy-Synthetic-Data-Challenge-assets)
 
 This repository is maintained by [Gary Howarth](mailto:gary.howarth@nist.gov), Prize Challenge Manager, NIST PSCR.  
 
-Tha main contents of the current repository are:
-- data assets from 2018 Synthetic Data Challenge
-- links to contesant submissions to the 2020 Temporal Map Challenge
-- data assets from 2020 Temporal Map Challenge
+The main contents of the current repository are:
+- links to contestant submissions to the Challenge (below)
+- public and sequestered data from the Challenge
+- scoring code and scripts for the Challenge
 - drug-related deaths dataset for testing
+- documentation and guides for using these resources
 
 Future contents we plan to add:
 - benchmark scripts for evaluating synthetic data generators (expected FEB 2022)
