@@ -1,4 +1,4 @@
-# NIST PSCR 2020 Differential Privacy Temporal Map Challenge asesets and links
+# NIST PSCR 2020 Differential Privacy Temporal Map Challenge assets and links
 
 Welcome!
 
@@ -19,17 +19,17 @@ Future contents we plan to add:
 
 ## Contestant Repositories
 
-The following repositories from competitors were open sourced.
+The following repositories from competitors were open sourced. Please acknowledge the use of these code bases using the citation information found in each respective repository.
 
-[Adaptive Granularity Method by Minutemen (Sprint 3)](https://github.com/ryan112358/nist-synthetic-data-2021)\*
+- [Adaptive Granularity Method by Minutemen (Sprint 3)](https://github.com/ryan112358/nist-synthetic-data-2021)\*
 POC: [Ryan McKenna](mailto:rmckenna@umass.edu)
 
-[DPSyn: an algorithm for synthesizing microdata for data analysis while satisfying differential privacy (Sprint 2)](https://github.com/agl-c/deid2_dpsyn)\*
-POC: Tianhao Wang
+- [DPSyn: an algorithm for synthesizing microdata for data analysis while satisfying differential privacy (Sprint 2)](https://github.com/agl-c/deid2_dpsyn)\*
+POC: [Tianhao Wang](tianhao@virginia.edu)
 
-[PrivacyHistos by Jim King (Sprint 2)](https://github.com/JimKing100/PrivacyHistos)\*
-POC: Jim King
+- [PrivacyHistos by Jim King (Sprint 2)](https://github.com/JimKing100/PrivacyHistos)\*
+POC: [Jim King](jim.king.mv@gmail.com)
 
-[TaxiTrip-Synthesizer by GooseDP](https://github.com/ctcovington/goosedp_sprint3_open_source)
+- [TaxiTrip-Synthesizer by GooseDP](https://github.com/ctcovington/goosedp_sprint3_open_source)
 
 \* indicates participated contestant participated in a three month development phase, working with NIST PSCR, Christine Task from Knexus Research and Maia Hansen to make their repositories extensible, more robust, better documented, and all around easier to use.
