@@ -28,10 +28,10 @@ The following repositories from competitors were open sourced and participated i
 -- Technical Point of Contact: [Ryan McKenna](mailto:rmckenna@umass.edu)
 
 - [DPSyn: an algorithm for synthesizing microdata for data analysis while satisfying differential privacy (Sprint 2)](https://github.com/agl-c/deid2_dpsyn)
--- Technical Point of Contact: [Tianhao Wang](tianhao@virginia.edu)
+-- Technical Point of Contact: [Tianhao Wang](mailto:tianhao@virginia.edu)
 
 - [PrivacyHistos by Jim King (Sprint 2)](https://github.com/JimKing100/PrivacyHistos)
--- Technical Point of Contact: [Jim King](jim.king.mv@gmail.com)
+-- Technical Point of Contact: [Jim King](mailto:jim.king.mv@gmail.com)
 
 We've also provided a guide to using the [R Synthpop library](https://github.com/usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets/blob/7f7aed6a8dd9fd8d0da8ae977901397bf99b1e95/webinars,%20presentations,%20demos/Dataset%20comparison%20using%20Synthpop.pdf) for data quality evaluation on non-challenge data sets.  This is a useful tool for exploring synthetic data quality on your own data problems. 
 
