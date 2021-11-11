@@ -1,6 +1,12 @@
-# NIST De-ID2 Challenge
+# NIST De-ID2 Challenge - Sprint 2
 
-![Python 3.8](https://img.shields.io/badge/Python-3.8-blue) [![GPU Docker Image](https://img.shields.io/badge/Docker%20image-gpu--latest-green)](https://hub.docker.com/r/drivendata/deid2-competition/tags?page=1&name=gpu-latest) [![CPU Docker Image](https://img.shields.io/badge/Docker%20image-cpu--latest-lightgrey)](https://hub.docker.com/r/drivendata/deid2-competition/tags?page=1&name=cpu-latest) 
+## This repo is under construction
+
+This repository is imported from the 2020 Differential Privacy Temporal Map Challenge hosted on the [DrivenData platform](https:/www.drivendata.org). Links may be broken. Submission can no longer be submitted. All code should be used with caution. User beware. 
+
+## Begin Import
+
+![Python 3.8](https://img.shields.io/badge/Python-3.8-blue) [![GPU Docker Image](https://img.shields.io/badge/Docker%20image-gpu--latest-green)](https://hub.docker.com/r/drivendata/deid2-competition/tags?page=1&name=gpu-latest) [![CPU Docker Image](https://img.shields.io/badge/Docker%20image-cpu--latest-lightgrey)](https://hub.docker.com/r/drivendata/deid2-competition/tags?page=1&name=cpu-latest)
 
 Welcome to the runtime repository for the [NIST De-ID2 Challenge](https://www.drivendata.org/competitions/74/competition-differential-privacy-maps-2/). This repository contains the definition of the environment where your code submissions will run. It specifies both the operating system and the software packages that will be available to your solution.
 
@@ -276,14 +282,14 @@ Options:
   --help                          Show this message and exit.
 ```
 
-#### Example for local use 
+#### Example for local use
 
 ```
 python benchmark/main.py \
   --parameters-file data/parameters.json \
   --ground-truth-file data/ground_truth.csv \
   --output-file /tmp/submission.csv
-``` 
+```
 
 ---
 
@@ -338,7 +344,7 @@ python runtime/scripts/metric.py \
   --parameters-json data/parameters.json \
   --report-path /tmp/report.json \
   data/ground_truth.csv \
-  /tmp/submission.csv 
+  /tmp/submission.csv
 ```
 
 ---
