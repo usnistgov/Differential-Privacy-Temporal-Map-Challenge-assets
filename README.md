@@ -2,11 +2,13 @@
 
 Welcome!
 
+This branch contains the raw challenge assets, data, scripts and related content. 
+
 This data repository contains assets to the 2020 Differential Privacy Temporal Map Challenge hosted by the Public Safety Communication (PSCR) Division of the National Institute of Standards of Technology (NIST).
 
 [If you are instead interested in information related to the 2018 Synthetic Data Challenge, please navigate to this link.](https://github.com/usnistgov/Differential-Privacy-Synthetic-Data-Challenge-assets)
 
-This repository is maintained by [Gary Howarth](mailto:gary.howarth@nist.gov), Prize Challenge Manager, NIST PSCR.  
+This repository is maintained by [Gary Howarth](mailto:gary.howarth@nist.gov), Physical Scientist, NIST.  
 
 The main contents of the current repository are:
 - links to contestant submissions to the Challenge (below)
