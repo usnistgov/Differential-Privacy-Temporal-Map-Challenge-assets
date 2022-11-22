@@ -6,7 +6,7 @@ This data repository contains assets to the 2020 Differential Privacy Temporal M
 
 This branch contains code to reproduce the challenge environment for sprints 2 and 3. [Visit the raw assets branch](https://github.com/usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets/tree/challenge_raw_resources/) for all of the data, scripts, and related content from all of the challenge sprints.
 
-The latest instance of [SDNist, Synthetic Data Generator Benchmark Data and Evaluation Tools](https://github.com/usnistgov/SDNist/) can be found in this repo. SDNist now uses the NIST Diverse Community Data Excerpts rather than then challenge data.  
+Please see [SDNist V2, Synthetic Data Generator Benchmark Data and Evaluation Tools](https://github.com/usnistgov/SDNist/) for the latest instance of our benchmarking tool. SDNist (v2) now uses the NIST Diverse Community Data Excerpts rather than then challenge data.  
 
 [If you are instead interested in information related to the 2018 Synthetic Data Challenge, please navigate to this link.](https://github.com/usnistgov/Differential-Privacy-Synthetic-Data-Challenge-assets)
 
