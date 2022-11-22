@@ -71,7 +71,7 @@ The SDNist source code is hosted on Github and all the data tables will be downl
 - Install via `pip` from [PyPi](https://pypi.org/) directory:
 
 ```
-pip install sdnist==1.3
+pip install sdnist==1.2.8
 ```
 
 - Install `sdnist` Python module through git repository:
