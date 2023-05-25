@@ -3,7 +3,9 @@
 
 Welcome!
 
-This data repository contains assets to the 2020 Differential Privacy Temporal Map Challenge hosted by the Public Safety Communication (PSCR) Division of the National Institute of Standards of Technology (NIST).
+This data repository contain SDNist v1, and assets to the 2020 Differential Privacy Temporal Map Challenge hosted by the Public Safety Communication (PSCR) Division of the National Institute of Standards of Technology (NIST).
+
+SDNist v1 was developed in collaboration with Saurus Technologies under CRADA CN-21-0143. 
 
 This branch contains code to reproduce the challenge environment for sprints 2 and 3. [Visit the raw assets branch](https://github.com/usnistgov/Differential-Privacy-Temporal-Map-Challenge-assets/tree/challenge_raw_resources/) for all of the data, scripts, and related content from all of the challenge sprints.
 
